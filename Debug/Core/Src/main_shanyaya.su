@@ -1,0 +1,3 @@
+../Core/Src/main_shanyaya.c:27:6:SVC_Handler_Main	32	static,ignoring_inline_asm
+../Core/Src/main_shanyaya.c:52:6:print_continuously	8	static
+../Core/Src/main_shanyaya.c:59:5:main_shan	24	static,ignoring_inline_asm

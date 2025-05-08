@@ -1,0 +1,3 @@
+../Core/Src/main_shanyaya.c:27:6:SVC_Handler_Main	3
+../Core/Src/main_shanyaya.c:52:6:print_continuously	1
+../Core/Src/main_shanyaya.c:59:5:main_shan	2
